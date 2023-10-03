@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Charles Wright';
+    src: url('CharlesWright-Bold.woff2') format('woff2'),
+        url('CharlesWright-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
